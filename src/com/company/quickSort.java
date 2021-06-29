@@ -3,7 +3,8 @@ package com.company;
 import java.io.BufferedInputStream;
 import java.util.Scanner;
 
-public class Main{
+public class quickSort{
+    //785. 快速排序https://www.acwing.com/problem/content/787/
     public static void main(String[] args){
         Scanner scan = new Scanner(new BufferedInputStream(System.in));
         int n =  scan.nextInt();
